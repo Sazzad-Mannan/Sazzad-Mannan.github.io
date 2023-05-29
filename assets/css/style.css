@@ -430,7 +430,7 @@ body {
 /* HERO
 ================================================== */
 .hero {
-  background: url(../img/hero.jpg) center no-repeat;
+  background: url(../img/hero6.jpg) center no-repeat;
   height: 100%;
   width: 100%;
   display: table;
@@ -440,7 +440,7 @@ body {
 
 .background-overlay:before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   height: 100%;
   width: 100%;
   position: absolute;
@@ -463,14 +463,14 @@ body {
   font-weight: 700;
   text-align: center;
   margin: 0 auto;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .hero-content p {
   padding: 0 15px;
   margin: 30px auto 0;
   text-align: center;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .hero-content .hero-job {
@@ -479,7 +479,7 @@ body {
 
 .hero-content .hero-job span {
   padding-bottom: 5px;
-  border-bottom: 1px solid #ffffff;
+  /* border-bottom: 1px solid #ffffff; */
 }
 
 .hero-content .hero-job-desc {
