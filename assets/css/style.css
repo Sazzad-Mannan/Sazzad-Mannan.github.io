@@ -822,6 +822,7 @@ body {
 
 .feature-about p {
   margin: 30px 0 0;
+  text-align: justify;
 }
 
 @media only screen and (max-width: 767px) {
